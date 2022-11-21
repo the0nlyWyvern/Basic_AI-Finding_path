@@ -24,5 +24,5 @@ Heuristic searching algorithms:
 
 # Going into details
 
-For more details, I put a README.md (unfinished) file in **./goingIntoDetails** folder.
-You can use **./goingIntoDetails/[vietnamese]report.docx** file, I will translate this file in the future.
+- For more details, I put a README.md (unfinished) file in **./goingIntoDetails** folder.
+- You can use **./goingIntoDetails/[vietnamese]report.docx** file, I will translate this file in the future.
